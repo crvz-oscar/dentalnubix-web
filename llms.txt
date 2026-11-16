@@ -3,6 +3,6 @@
 > Expediente clínico electrónico para clínicas dentales en México. Captura a mano con Apple Pencil, IA que propone un borrador estructurado, certificación con firma criptográfica y datos alojados en México. Un producto de Orca Digital Hub. Estatus: fase piloto; se buscan clínicas piloto.
 
 - Sitio: https://dentalnubix.com/
-- Contacto para ser clínica piloto: hola@orcadigitalhub.com
+- Contacto para ser clínica piloto: oscar.cruz@orcadigitalhub.com
 - Diseñado sobre NOM-004-SSA3-2012 y NOM-024-SSA3-2012 (sin certificación formal ante la DGIS por ahora).
 - La IA no recibe la identidad del paciente junto con sus datos clínicos; una persona confirma todo lo que propone.
